@@ -28,10 +28,22 @@
 ## 📊 GitHub Stats
 ![Shin-Tae-Bin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shin-Tae-Bin&show_icons=true&theme=radical)
 
-## 🏆 주요 프로젝트
-- 🔐 **Mr. Robot CTF** - 웹 서버 모의해킹 실습
-- 📚 **해킹보안전문가 1급** - 자격증 취득 학습 기록
-- 🎯 **PLUS2025 Security Conference** - 정보보안 컨퍼런스 참여
+## 🏆 Certifications
+
+![해킹보안전문가1급](https://img.shields.io/badge/해킹보안전문가-1급-red?style=for-the-badge)
+![리눅스마스터2급](https://img.shields.io/badge/Linux_Master-2급-orange?style=for-the-badge)
+![네트워크관리사2급](https://img.shields.io/badge/Network_Admin-2급-blue?style=for-the-badge)
+
+### 📋 취득 현황
+
+| 자격증 | 취득일 | 발급기관 |
+|--------|--------|----------|
+| 🔐 해킹보안전문가 1급 | 2025.08.12 | 한국자격검정평가진흥원 |
+| 🐧 리눅스마스터 2급 | 2025.07.04 | 한국정보통신진흥협회 |
+| 🌐 네트워크관리사 2급 | 2023.10.10 | 한국정보통신자격협회 |
+
+### 📚 준비 중
+- 🛡️ **정보보안산업기사** (목표: 2026) - 한국산업인력공단
 
 ## 📫 Contact
 - 📧 Email: [root.bin.vi@gmail.com]
